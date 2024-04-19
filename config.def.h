@@ -24,7 +24,7 @@ static int floatposgrid_x                = 5;  /* float grid columns */
 static int floatposgrid_y                = 5;  /* float grid rows */
 /* Status is to be shown on: -1 (all monitors), 0 (a specific monitor by index), 'A' (active monitor) */
 static const int statusmon               = 'A';
-static const char buttonbar[]            = "  ";
+static const char buttonbar[]            = " ";
 static const unsigned int ulinepad = 5;         /* horizontal padding between the underline and tag */
 static const unsigned int ulinestroke  = 1;     /* thickness / height of the underline */
 static const unsigned int ulinevoffset = 0;     /* how far above the bottom of the bar the line should appear */
@@ -167,7 +167,8 @@ static const char *scratchpadcmd[] = { "t", "alacritty", "--class", "spterm,spte
  */
 static char *tagicons[][NUMTAGS] =
 {
-	[DEFAULT_TAGS]        = { "1", "2", "3", "4", "5", "6" },
+	/* [DEFAULT_TAGS]        = { "1", "2", "3", "4", "5", "6" }, */
+	[DEFAULT_TAGS]        = { "", "", "", "", "", "" },
 };
 
 /* There are two options when it comes to per-client rules:
