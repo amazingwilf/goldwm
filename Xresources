@@ -1,0 +1,61 @@
+Xcursor.theme:  Qogirr-Dark
+Xcursor.size:   44
+
+
+
+dwm.normfgcolor:                #abb2bf
+dwm.normbgcolor:                #000000
+dwm.normbordercolor:            #414141
+dwm.normfloatcolor:             #414141
+
+dwm.selfgcolor:                 #dedede
+dwm.selbgcolor:                 #000000
+dwm.selbordercolor:             #61afef
+dwm.selfloatcolor:              #c678dd
+
+dwm.titlenormfgcolor:           #abb2bf
+dwm.titlenormbgcolor:           #000000
+dwm.titlenormbordercolor:       #000000
+dwm.titlenormfloatcolor:        #000000
+
+dwm.titleselfgcolor:            #dedede
+dwm.titleselbgcolor:            #000000
+dwm.titleselbordercolor:        #000000
+dwm.titleselfloatcolor:         #000000
+
+dwm.tagsnormfgcolor:            #414141
+dwm.tagsnormbgcolor:            #000000
+dwm.tagsnormbordercolor:        #e3be78
+dwm.tagsnormfloatcolor:         #e3be78
+
+dwm.tagsoccfgcolor:             #abb2bf
+dwm.tagsoccbgcolor:             #000000
+dwm.tagsoccbordercolor:         #e3be78
+dwm.tagsoccfloatcolor:          #e3be78
+
+dwm.tagsselfgcolor:             #dedede
+dwm.tagsselbgcolor:             #000000
+dwm.tagsselbordercolor:         #000000
+dwm.tagsselfloatcolor:          #000000
+
+dwm.hidnormfgcolor:             #e3be78
+dwm.hidselfgcolor:              #61afef
+dwm.hidnormbgcolor:             #000000
+dwm.hidselbgcolor:              #000000
+
+dwm.urgfgcolor:                 #bbbbbb
+dwm.urgbgcolor:                 #222222
+dwm.urgbordercolor:             #ff0000
+dwm.urgfloatcolor:              #db8fd9
+
+dwm.scratchselfgcolor:          #dedede
+dwm.scratchselbgcolor:          #000000
+dwm.scratchselbordercolor:      #E06B74
+dwm.scratchselfloatcolor:       #E06B73
+
+dwm.scratchnormfgcolor:         #abb2bf
+dwm.scratchnormbgcolor:         #000000
+dwm.scratchnormbordercolor:     #414141
+dwm.scratchnormfloatcolor:      #414141
+
+
